@@ -2,6 +2,14 @@
 
 Release notes of [Vibely - Music Visualizer for iOS](https://apps.apple.com/app/id1528056717) app.
 
+## v3.7.8
+
+- Personalize your visuals with unique and custom fonts using the new font selection tool
+- Better storage management to delete exported videos and temporary media files to save space
+- Fixed an issue where music files couldn't be selected properly on macOS (Catalyst)
+- Resolved SoundCloud issue that prevented track downloads in certain countries
+- Easily connect with us on Facebook, Instagram, Threads, X, Telegram, and more
+
 ## v3.7.7
 
 - Camera Shake Effect: The most requested feature is here! Add dynamic, rhythmic motion to your visuals that shake with the beat.
