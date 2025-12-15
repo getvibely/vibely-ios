@@ -8,6 +8,10 @@ Transform your music into stunning visual art with Vibely, the top music visuali
 
 ## Known issues
 
+### Video freezes
+
+Sometimes video playback gets stuck. This is known issue introduced by iOS 26 and many developers reported this weird behaviour of AVPlayerLooper. Hopefully, Apple developers will fix this issue soon. As a workaround try adjusting the player progress bar, reloading the music or setting other background options to fix it. After doing this the player loads the correct state and you can keep creating audio visualizations.
+
 ### Slow export
 
 Currently exporting takes very long especially for longer audio files and high export settings like 60fsp/4k resolution. The rendering process is complex by its nature especially if there are lots of visual effects and visualizers playing simultaneously. However I'm working on optimizing the render pipeline and making it faster in future updates. Please be aware with me, I'm trying my best.
