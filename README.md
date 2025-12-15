@@ -12,7 +12,7 @@ Transform your music into stunning visual art with Vibely, the top music visuali
 
 Currently exporting takes very long especially for longer audio files and high export settings like 60fsp/4k resolution. The rendering process is complex by its nature especially if there are lots of visual effects and visualizers playing simultaneously. However I'm working on optimizing the render pipeline and making it faster in future updates. Please be aware with me, I'm trying my best.
 
-## Export breaks on 100%
+### Export breaks on 100%
 
 Some of you reported to me that export fails towards the end (100%) and the video is lost. The common reason is because your device storage is full. Try removing some media files from Photos app and cleaning the trash making more space for Vibely videos.
 
