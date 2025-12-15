@@ -25,3 +25,7 @@ Some of you reported to me that export fails towards the end (100%) and the vide
 ## Changelog
 
 Check out [Changelog](./CHANGELOG.md)
+
+## Contact
+
+Don't hesitate to reach out to me via support [at] getvibely [dot] app with any question or feedback. I'm always happy to improve Vibely - Music Visualizer app for you!
