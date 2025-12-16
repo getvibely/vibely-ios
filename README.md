@@ -8,6 +8,10 @@ Transform your music into stunning visual art with Vibely, the top music visuali
 
 ## Known issues
 
+### Video aspect ratio is 9:16
+
+Some users have reported that changing the aspect ratio doesn't work while exporting. I'm working on the fix right now.
+
 ### Video freezes
 
 Sometimes video playback gets stuck. This is known issue introduced by iOS 26 and many developers reported this weird behaviour of AVPlayerLooper. Hopefully, Apple developers will fix this issue soon. As a workaround try adjusting the player progress bar, reloading the music or setting other background options to fix it. After doing this the player loads the correct state and you can keep creating audio visualizations.
