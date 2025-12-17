@@ -27,6 +27,10 @@ Some of you reported to me that export fails towards the end (100%) and the vide
 ## Work in progress
 
 - [ ] Realtime music visualization for streaming apps
+
+## Feature Requests
+
+- [ ] Add layer perspective options to achieve 3D-like display
 - [ ] Export optimization
 - [ ] Android version of Vibely - Music Visualizer
 
