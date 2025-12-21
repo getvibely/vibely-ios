@@ -30,6 +30,7 @@ Some of you reported to me that export fails towards the end (100%) and the vide
 
 ## Feature Requests
 
+- [ ] Color picker
 - [ ] Add layer perspective options to achieve 3D-like display
 - [ ] Export optimization
 - [ ] Android version of Vibely - Music Visualizer
